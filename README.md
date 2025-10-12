@@ -2,7 +2,6 @@
 
 A beautiful and functional Streamlit web application for tracking cryptocurrency prices, analyzing trends, and receiving alerts. This project is for educational and data analysis purposes only.
 
-![Market Overview](https://z-cdn-media.chatglm.cn/files/57cc0c22-122c-48a3-b333-08c029257e92_pasted_image_1760266277181.png?auth_key=1791802833-a563ae384dfe428ca3188871f79e20a9-0-71651acd415d0b1f362d73af8162cfa0)
 
 ## Features
 
