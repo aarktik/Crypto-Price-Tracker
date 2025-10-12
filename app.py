@@ -13,7 +13,7 @@ from services.data_logger import DataLogger
 from services.alert_engine import AlertEngine
 from services.summarizer import AISummarizer
 
-st.set_page_config(page_title="Crypto Price Tracker", page_icon="💹", layout="wide")
+st.set_page_config(page_title="Crypto Price Tracker", page_icon="https://scontent.finnomena.com/sites/1/2022/05/77d6cb10-btc.png", layout="wide")
 
 POPULAR_COINS = [
     "bitcoin","ethereum","binancecoin","solana","ripple","cardano","dogecoin","tron",
