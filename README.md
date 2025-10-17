@@ -92,5 +92,7 @@
 ---
 
 ## Slide
-    [Crypto Price Tracker)]([https://crypto-price-tracker-vqes.onrender.com/](https://www.canva.com/design/DAG1W8H460A/P9_mqKomq0dPTYmZ6hXNBg/edit?utm_content=DAG1W8H460A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+🎨 Design Preview  [Crypto Price Tracker](https://www.canva.com/design/DAG1W8H460A/P9_mqKomq0dPTYmZ6hXNBg/edit?utm_content=DAG1W8H460A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+
+---
